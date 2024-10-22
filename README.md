@@ -83,10 +83,6 @@ pip install torch torchvision nltk pycocotools matplotlib Pillow
 
 We welcome contributions! Fork the repository and submit pull requests to add new features or enhance existing ones.
 
-📝 License
-
-This project is licensed under the MIT License. Feel free to use it for personal or academic purposes.
-
 💡 Acknowledgments
 
 	•	Google Colab for free GPU access 🎉

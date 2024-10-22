@@ -10,17 +10,6 @@ Turn words into stunning images using GANs! 🎉
 	•	🗂 COCO dataset to map captions to images.
 	•	💾 Pre-trained model support to skip training and directly generate images.
 
-🛠 Project Structure
-
-📂 Text-to-Image-GAN
-├── data/                  # Dataset folder
-├── models/                # Saved trained models
-├── generator.py           # Generator model code
-├── discriminator.py       # Discriminator model code
-├── dataset.py             # Dataset class
-├── train.py               # Training script
-├── generate_image.py      # Image generation script
-└── README.md              # Project documentation (this file)
 
 💻 Technologies Used
 
